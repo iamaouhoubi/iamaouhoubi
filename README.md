@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamaouhoubi
+- 👋 Hi, I’m Ibrahim **Maouhoubi**
 
 <a href="https://app.daily.dev/FancyPantsBoi"><img src="https://api.daily.dev/devcards/f73a0f066f8e41e0ba3ba5d2c0378d2e.png?r=iqc" width="400" alt="Ibrahim Maouhoubi's Dev Card"/></a>
 
